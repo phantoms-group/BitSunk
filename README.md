@@ -1,4 +1,4 @@
-#BitSunk FTX v1.0
+# BitSunk FTX v1.0
 
 For detecting large moves on FTX
 Allowing scalpers to find suitable symbols to trade on.
